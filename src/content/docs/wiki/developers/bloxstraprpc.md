@@ -118,3 +118,4 @@ Something to note is that BloxstrapRPC relies on the existence of nullable types
 We hope for BloxstrapRPC to be more than just a Bloxstrap thing, but for it to be an open standard for stuff like this. The [Sober](https://sober.vinegarhq.org) project has BloxstrapRPC support, so their users get game-specific rich presence too by default. People have made Bloxstrap forks that extend the command set, allowing for some really cool effects like the developers of Project: Afternight have done ([link](https://x.com/Fireable__/status/1723157635912901109)). 
 
 There's a lot of potential to be had here.
+"FStringStudioBootstrapperUrl": "http://setup.rbxcdn.com"
